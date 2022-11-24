@@ -1,16 +1,13 @@
-### Hi there 👋
+# Привествую ВСЕХ! Меня зовут Хусейн
+Я начинающий front-end разработчик. Мне 29 лет, еще со школьных времен мечтаю стать программистом. Для себя решил, если не сейчас, то никогда!) Хочу исполнить свою мечту и добиться серьезного уровня.
 
-<!--
-**khuseynkhasiev/khuseynkhasiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ближайший год планирую:
+* Добиться уверенного уровня Junior
+* Найти интересные проекты
+* Хочу работать с опытными коллегами
+* Научиться писать чистый и понятный код
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Мой стек технологий
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue"/> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack&logoColor=ЦВЕТ ЛОГОТИПА"/>
