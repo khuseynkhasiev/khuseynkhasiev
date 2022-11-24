@@ -12,7 +12,7 @@
 
 ### Моя статистика
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuseynkhasiev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuseynkhasiev&theme=tokyonight)
 
 [![codewars](https://www.codewars.com/users/khuseynkhasiev/badges/large)](https://www.codewars.com/users/khuseynkhasiev)
 
