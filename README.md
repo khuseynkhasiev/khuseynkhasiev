@@ -12,7 +12,7 @@
 
 ### Моя статистика
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khuseynkhasiev)](https://github.com/khuseynkhasiev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuseynkhasiev&layout=compact)](https://github.com/khuseynkhasiev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuseynkhasiev)](https://github.com/khuseynkhasiev/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/khuseynkhasiev/badges/large)](https://www.codewars.com/users/khuseynkhasiev)
 
